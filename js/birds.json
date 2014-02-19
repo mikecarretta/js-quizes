@@ -1,0 +1,26 @@
+{
+    "birds": [
+        {
+            "question": "What is this birds name",
+            "img": "photos/bird.jpg",
+            "choices": [
+                "bird1",
+                "bird2",
+                "bird3",
+                "bird4"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "What is this birds name Yo",
+            "img": "photos/birdYo.jpg",
+            "choices": [
+                "bird1Yo",
+                "bird2Yo",
+                "bird3Yo",
+                "bird4Yo"
+            ],
+            "answer": "2"
+        }
+    ]
+}

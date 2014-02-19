@@ -1,0 +1,14 @@
+{
+  "name": "JS-quiz",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "~3.1.0",
+    "jquery": "~1.10.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app"
+  ]
+}

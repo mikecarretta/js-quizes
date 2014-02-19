@@ -1,0 +1,7 @@
+# A Dynamic Quiz using JavaScript
+
+[How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+
+I used the book **JavaScript: The Definitive Guide**, [Codecademy.com] (http://codecademy.com) JavaScript course, and I took both jQuery courses from [codeschool.com](http://codeschool.com). All the steps are listed below, but it would be best to view the orginal "How to Learn JavaScript Properly" article.
+
+This is my version of the quiz project.

@@ -1,0 +1,28 @@
+.moon {
+	background: url(img/Europa.jpg) no-repeat top left #000000;
+}
+.bird {
+	background: url(img/Warbler.jpg) no-repeat 0px 0px #fcbd00;
+}
+p, h1,  h2 {
+	color: #fff;
+}
+h3 {
+	color: #d6d6d6;
+}
+.quiz-title {
+	font-size: 50px;
+	font-weight: 200;
+}
+.quiz-sub-title {
+	font-size: 18px;
+	margin-bottom: 40px;
+}
+.alert h4 {
+	margin: 0;
+}
+.quiz {
+	padding: 20px;
+	background-color: rgba(0, 0, 0, .8);
+	border-radius: 8px;
+}
